@@ -1,0 +1,12 @@
+{
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "html_pages": 2014,
+  "analytics_missing": [],
+  "category_covered_movies": 2000,
+  "player_pages": 2000,
+  "logo_name": "高清电影片库",
+  "video_source_count": 150,
+  "cover_files_expected": "1.jpg 至 150.jpg 放在网站根目录时自动匹配；本素材包未包含 JPG 文件。"
+}
